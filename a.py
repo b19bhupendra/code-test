@@ -1,1 +1,1 @@
-print(" sfsdfasdfplayed boys")
+print(" played boys")
